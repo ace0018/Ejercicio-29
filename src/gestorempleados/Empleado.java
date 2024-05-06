@@ -52,4 +52,4 @@ class Empleado {
                 ", departamento='" + departamento + '\'' +
                 '}';
     }
-}
+    }
